@@ -1,0 +1,22 @@
+
+[class*="col"] {
+    padding: 1rem;
+    background-color: rgb(140, 140, 240);
+    border: 2px solid black;
+    color: red;
+}
+
+[class*="con"] {
+    padding: 1rem;
+    background-color: rgb(221, 161, 101);
+    border: 2px solid black;
+    color: darkgreen;
+    text-align: center;
+}
+[class*="row"] {
+    padding: 1rem;
+    background-color: rgb(115, 221, 101);
+    border: 2px solid black;
+    color: rgb(238, 16, 64);
+    text-align: center;
+}

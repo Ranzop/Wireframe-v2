@@ -1,0 +1,23 @@
+[class*="col"] {
+  padding: 1rem;
+  background-color: #8c8cf0;
+  border: 2px solid black;
+  color: red;
+}
+
+[class*="con"] {
+  padding: 1rem;
+  background-color: #dda165;
+  border: 2px solid black;
+  color: darkgreen;
+  text-align: center;
+}
+
+[class*="row"] {
+  padding: 1rem;
+  background-color: #73dd65;
+  border: 2px solid black;
+  color: #ee1040;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
